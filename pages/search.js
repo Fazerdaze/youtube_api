@@ -13,7 +13,7 @@ const Search = (props) => {
       params: {
         part: "snippet",
         maxResults: 5,
-        key: 'AIzaSyDFz80Fxiho_by37y2OTLfhFk7JxRGvoWQ',
+        key: 'API_KEY',
         q: searchTerm,
       }
     });
